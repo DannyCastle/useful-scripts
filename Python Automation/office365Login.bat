@@ -1,0 +1,1 @@
+@py.exe "C:\Users\daniel.castillo\Desktop\Py Learning\office365Login.py" %*

@@ -1,0 +1,1 @@
+@py.exe "C:\Users\daniel.castillo\Desktop\Python Learning\mapIt.py" %*
