@@ -22,3 +22,8 @@ Wakeupmachines
 
 
 -high uptime causes many glitches in Windows machines
+
+
+Python Automation
+
+-scripts used for various daily tasks made with Python 3
